@@ -1,0 +1,1 @@
+I have create this file. But it will be ignored because of git ignorenc.
